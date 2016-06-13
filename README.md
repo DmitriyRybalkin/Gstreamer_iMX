@@ -1,0 +1,2 @@
+# GStreamer sample application for video/audio streaming 
+The application is based on [NXP (Freescale)](http://www.nxp.com/) hardware accelerated plugins and switches pipeline streaming between analog video/audio source (tvsrc/sgtl5000) and hdmi (mfw_v4lsrc/tda1997xaudio), depending on it's corresponding parameters.
